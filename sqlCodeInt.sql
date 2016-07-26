@@ -15,7 +15,7 @@ CREATE TABLE conversion_table (
 
 
 
-#Load train table to sql
+
 LOAD DATA INFILE '/var/lib/mysql-files/data-data_analyst.txt' 
 INTO TABLE conversion_table 
 FIELDS TERMINATED BY '\t' 

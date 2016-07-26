@@ -1,0 +1,15 @@
+This repository contains code used to answer Media Gerneral's Data Analyst interview questions.
+
+
+
+File                                 Description
+
+result_table.txt:                    Text containing report with website ids and scores.
+
+
+sqlCodeInt.sql 						 Sql code used to import website conversion data into MySql.    
+
+
+
+Media_General_Code.py                Python code which analysis website conversion data.
+
