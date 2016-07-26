@@ -17,7 +17,7 @@ result_file = 'result_table.txt'
 #%%
 #Ranking Websites
 try:
-    db=MySQLdb.connect(passwd="M4382vwr",user = "root",db="MediaGeneral")
+    db=MySQLdb.connect(passwd="Password",user = "root",db="MediaGeneral")
     query = 'select * from conversion_table'
     data_raw = pd.read_sql(query,db)
     db.close() 

@@ -7,7 +7,7 @@ File                                 Description
 result_table.txt:                    Text containing report with website ids and scores.
 
 
-sqlCodeInt.sql 						 Sql code used to import website conversion data into MySql.    
+sqlCodeInt.sql 			     Sql code used to import website conversion data into MySql.    
 
 
 
